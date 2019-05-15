@@ -1,0 +1,59 @@
+  header div {
+    display: flex;
+  }
+  
+  header div img {
+
+    margin: 10px 5px ;
+    
+  }
+  
+  header div h1 {
+    margin-left: 40.3%;
+  }
+  
+  header {
+   font-family: Papyrus;
+   background-color: #6D4CF2;
+   line-height: 2.0;
+   color: whitesmoke;
+   text-align: center;
+   background-image: url(https://www.blueskyvineyard.com/wp-content/uploads/2014/07/bg-prlx-big-sky.jpg);
+  
+ }
+ 
+ header h1 {
+   text-align: center;
+ }
+ 
+ header a {
+   margin: 0px 30px;
+  
+ }
+ 
+ header div a {
+   margin: 0;
+ }
+ 
+header div nav a {
+ margin: 0px 50px; 
+}
+ 
+ 
+ footer {
+   font-family: Papyrus;
+   color: whitesmoke;
+   /*background-color: #6D4CF2 ;*/
+   background-image: url("IMAGE.jpg");
+ }
+
+ footer a {
+   margin: 0px 30px;
+   line-height: 1.8;
+   color: white;
+ }
+ 
+ footer nav {
+   display: flex;
+   justify-content: center;
+ }
