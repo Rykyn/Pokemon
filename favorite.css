@@ -1,0 +1,65 @@
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+section div img {
+  width: 310px;
+  height: 425px;
+}
+
+section div h2 {
+  width: 300px;
+}
+
+section div p {
+  width: 300px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.favorite {
+    text-align: center;
+  }
+  
+  h2 {
+    font-family: papyrus;
+  }
+  
+  h3 {
+    font-family: papyrus;
+    text-align: center;
+  }
+  
+  p {
+    font-family: papyrus;
+    
+    
+  }
+  
+ 
+
+  .pokemon {
+    display: flex;
+    padding: 10px;
+  }
+  
+
+  section img {
+    width: 350px;
+    height: 400px;
+  }
+  
+  .text {
+    padding: 20px;
+    text-align: center;
+    background-color: #A5FDFA;
+    width: 350px;
+    height: 400px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+  }
+  
