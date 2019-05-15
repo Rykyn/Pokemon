@@ -1,0 +1,26 @@
+h2 {
+  color: #2A20A4;
+  font-family: papyrus;
+  text-align: center;
+}
+
+section {
+  font-family: papyrus;
+  display: flex;
+  justify-content: space-around;
+}
+
+.pokemon div img{
+  width:425px;
+  height:650px;
+
+}
+
+.pokemon {
+  margin-top: 50px;
+}
+
+.pokemon div {
+  width: 450px;
+}
+
