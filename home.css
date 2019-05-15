@@ -1,0 +1,28 @@
+section h2 {
+   font-family: Papyrus;
+   text-align: center;
+   color: #021AC4;
+ }
+ 
+ section {
+   font-family: Papyrus;
+  
+ }
+ 
+ 
+ 
+ a {
+   color: white;
+   text-decoration: none;
+ }
+ 
+  section img {
+    display: flex;
+    margin:auto;
+  }
+  
+  section p {
+    text-align: center;
+  }
+  
+  
